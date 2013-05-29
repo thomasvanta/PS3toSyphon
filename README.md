@@ -1,7 +1,7 @@
 PS3toSyphon
 ===========
 
-simple PS3eye grabber with image published to Syphon
+simple PS3eye grabber with image published to Syphon.
 Created for Mountain Lion, but should work on 10.6.8+
 
 Download compiled version here:
