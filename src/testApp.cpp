@@ -4,6 +4,7 @@
 void testApp::setup(){
 	ofSetVerticalSync(true);
 	ofSetWindowShape(640, 480);
+    ofSetDataPathRoot("../Resources/");
 	
 	ps3eye.initGrabber(640, 480);
     
