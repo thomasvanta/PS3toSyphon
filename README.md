@@ -2,10 +2,9 @@ PS3toSyphon
 ===========
 
 simple PS3eye grabber with image published to Syphon.
-Created for Mountain Lion, but should work on 10.6.8+
 
-Download compiled version here:
-https://dl.dropboxusercontent.com/u/1362081/PS3toSyphon.zip
+Download compiled version for 10.6 here:
+https://github.com/thomasvanta/PS3toSyphon/releases/tag/v1.0.1
 
 dependencies:
 ofxMacamPs3Eye
